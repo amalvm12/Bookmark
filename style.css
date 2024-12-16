@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(71, 67, 67);
+    color: white;
+}
+a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+
+    
+}
+a:hover{
+    color: aqua;
+    font-size: 22px;
+}
